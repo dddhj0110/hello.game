@@ -1,2 +1,3 @@
 # hello.game
-game组最牛逼
+游戏组最牛逼
+今天开始记录和commit
